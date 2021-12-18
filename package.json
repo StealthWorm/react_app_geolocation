@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "expo-cli": "^4.13.0",
+    "react-native-maps": "^0.29.4",
+    "urix": "^0.1.0"
+  }
+}
